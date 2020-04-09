@@ -2,7 +2,7 @@
   "name": "random-in",
   "version": "1.0.101",
   "description": "A package to get random values",
-  "main": "index.js",
+  "main": "index.ts",
   "author": "Akul Srivastava",
   "license": "MIT",
   "devDependencies": {
