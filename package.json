@@ -1,11 +1,8 @@
 {
-  "name": "getrandom",
+  "name": "random-in",
   "version": "1.0.0",
   "description": "A package to get random values",
   "main": "index.js",
-  "scripts": {
-    "dev": "ts-node index.ts"
-  },
   "author": "Akul Srivastava",
   "license": "MIT",
   "devDependencies": {
