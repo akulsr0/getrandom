@@ -1,6 +1,6 @@
 {
   "name": "random-in",
-  "version": "1.0.101",
+  "version": "1.0.102",
   "description": "A package to get random values",
   "main": "index.ts",
   "author": "Akul Srivastava",
