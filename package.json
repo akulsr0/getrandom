@@ -4,6 +4,7 @@
   "description": "A package to get random values",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "prepublish": "tsc",
   "scripts": {
     "build": "tsc"
   },
