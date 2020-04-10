@@ -52,6 +52,7 @@ export const names: string[] = [
 ];
 
 export const maleNames: string[] = [
+  'Aryansh Mahato',
   'Dorsey Jock',
   'Dana Macy',
   'Eugenio Varnum',
@@ -360,6 +361,7 @@ export const indianFemaleFirstNames: string[] = [
 ];
 
 export const indianMaleFirstNames: string[] = [
+  'Aryansh',
   'Abhay',
   'Adesh',
   'Adhik',
@@ -872,6 +874,7 @@ export const indianLastNames: string[] = [
     "Mahajan",
     "Mahal",
     "Maharaj",
+    "Mahato",
     "Majumdar",
     "Malhotra",
     "Mall",
