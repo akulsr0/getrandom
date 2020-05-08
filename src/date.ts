@@ -5,5 +5,8 @@ export const getDateBetween = (start: Date, end: Date): Date => {
 };
 
 export const getRandomDate = () => {
-  return new Date();
+  var from = new Date();
+  var to = new Date(1947, 8, 26);
+  var randomDate = from.getTime() + Math.random() * (to.getTime() - from.getTime());
+  return new Date(randomDate);
 };
