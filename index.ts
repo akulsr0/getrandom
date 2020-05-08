@@ -2,7 +2,7 @@ import { getNDigit } from './src/numbers';
 import { getRandomBetween } from './src/numbers';
 import { getRandomFloatBetween } from './src/numbers';
 import { getNRandomBetween } from './src/numbers';
-
+import { getRandomDate } from './src/date';
 import {
   getName,
   getMaleName,
@@ -145,4 +145,8 @@ module.exports.getRandomEmail = (): string => {
 
 module.exports.getRandomColorHex = (): string => {
   return getRandomColorHex();
+};
+
+module.exports.getRandomDate = (): Date => {
+  return getRandomDate();
 };

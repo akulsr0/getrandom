@@ -3,3 +3,7 @@ export const getDateBetween = (start: Date, end: Date): Date => {
     start.getTime() + Math.random() * (end.getTime() - start.getTime())
   );
 };
+
+export const getRandomDate = () => {
+  return new Date();
+};
